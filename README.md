@@ -7,7 +7,7 @@
     sudo apt install g++
 ```
     
-# Installation
+# Installation In linux
 
 
 ```bash
